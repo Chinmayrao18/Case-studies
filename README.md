@@ -1,2 +1,2 @@
-# E commerce Sales and Customer behavior Analysis
+# Case Studies
 Business Case Study 
